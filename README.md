@@ -1,17 +1,7 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Fique a vontade para explorar o meu projeto! 💙💙
 
-Estou estudando na [Alura](www.alura.com)
+Este projeto é um protótipo de um site, com intenção de ofertar cursos do You Tube para iniciantes e interessados em programação.
 
-
-Estou me desenvolvendo na linguagem JavaScript
-
-
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-
-
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
-
+Este site é basicamente desenvolvido em HTML e CSS.
 
 ![](https://media.tenor.com/5PuT-RRFAyQAAAAM/hi-bye.gif)
